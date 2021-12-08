@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318990413225",
+    "project_id": "linkedin-firebase-pro",
+    "storage_bucket": "linkedin-firebase-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318990413225:android:8c653079b3547e7a4928b8",
+        "android_client_info": {
+          "package_name": "com.linkedin_firebase_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318990413225-6g7dvagn81ga3phg093llldssen5ao1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkedin_firebase_pro",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "318990413225-ofpmvg1s4nm1q6ocnb6lv618cnotqane.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdWFfpl8maAbTOuGId2Y7HJvrOQEwY2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318990413225-ofpmvg1s4nm1q6ocnb6lv618cnotqane.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
